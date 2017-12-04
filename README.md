@@ -54,7 +54,7 @@
 | Mei Ying Tan   | Meiying97      | <https://meiying97.github.io/STAT184/>           |
 | Luc Legaspi     | luclegaspi     | <https://luclegaspi.github.io/Repo-Demo-184/>     |
 | Sooyoul Lee     | sooyeoul47     | <https://sooyeoul47.github.io/STAT-184/>          |
-| Sanghyon Jeong  | sanghyonjeong  | <https://sanghyonjeong.github.io/stat184_project/> |
+| Sanghyon Jeong  | sanghyonjeong  | <https://sanghyonjeong.github.io/184_FINAL_PROJECT.html> |
 | AnnMarie McAlinney | annmariemcalinney | <https://annmariemcalinney.github.io/readme/> | 
 | Samuel Messer   | SameMesser     | <https://samemesser.github.io/STAT-184/>           |
 | Sayre Bradley   | skbradley      | <https://skbradley.github.io/RepoDemo/>           |
